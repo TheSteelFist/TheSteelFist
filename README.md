@@ -7,7 +7,7 @@ I have always dreamt of building a self-sufficient, fully interactive virtual wo
 💻 I love to work on all kinds of projects, because every little thing helps when you least expect it.<br>
 
 When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasure.<br>
-🎸🎻 One of them is playing heavy metal songs on my guitar or some classical on the violin (Two ends of the spectrum? On closer inspection they're very similar)<br>
+🎸🎻 One of them is playing heavy metal songs on my guitar or some classical pieces on the violin (Two ends of the spectrum? On closer inspection they're very similar)<br>
 🥘🍰 I also love to cook and bake, most of which is very edible!<br>
 📚📖 Learning languages is a newfound hobby of mine, Japanese being the latest addition to the list. アニメが大好きだから ;)<br>
 🎨✏️ I also like to sketch portraits and paint landscapes! It's usually sketching because pencil is the quickest to reach out for(although it demands way more patience).<br>
@@ -15,6 +15,7 @@ When I'm not studying or working towards the craziest dream, I indulge myself in
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/TheSteelFist/count.svg)
+<a href="https://instagram.com/TheSteelFist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="TheSteelFist" height="30" width="40" /></a>
 
 </div>
 <!--
