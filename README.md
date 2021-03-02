@@ -1,5 +1,5 @@
 > *''You didn't come here to make the choice. You've already made it. You're here to understand why you made it''* <br>
-> <div dir="rtl">The Oracle</div></p>
+> <div dir="rtl">The Oracle</div><p/>
 
 Interactive and autonomous systems have always appealed to me given its multipurpose application. 
 I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br>
@@ -12,6 +12,7 @@ When I'm not studying or working towards the craziest dream, I indulge myself in
 📚📖 Learning languages is a newfound hobby of mine, Japanese being the latest addition to the list. アニメが大好きだから ;)<br>
 🎨✏️ I also like to sketch portraits and paint landscapes! It's usually sketching because pencil is the quickest to reach out for(although it demands way more patience).<br>
 
+![Visitor Count](https://profile-counter.glitch.me/TheSteelFist/count.svg)
 
 
 <!--
