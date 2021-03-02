@@ -45,7 +45,7 @@ When I'm not studying or working towards the craziest dream, I indulge in a bunc
 📚📖 Learning languages is a newfound hobby of mine, Japanese being the latest addition to the list. アニメが大好きだから ;)<br>
 🎨✏️ I also like to sketch portraits and paint landscapes! It's usually sketching because pencil is the quickest to reach out for (although it demands way more patience).<br>
 🎲🎮 Developing and playing video games is something that I enjoy<br>
-📷<a href="https://instagram.com/TheSteelFist" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="TheSteelFist" height="20"/></a> Although I'm new at it, I still enjoy composing photographs.<br>
+📷<a href="https://instagram.com/TheSteelFist" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="TheSteelFist" height="15"/></a> Although I'm new at it, I still enjoy composing photographs.<br>
 
 ---
 
