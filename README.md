@@ -4,15 +4,13 @@
 Interactive and autonomous systems have always appealed to me given its multipurpose application. 
 I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br>
 
-I love to work on all kinds of projects, because every little thing helps when you least expect it.<br>
+- 💻 I love to work on all kinds of projects, because every little thing helps when you least expect it.<br>
 
 When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasures. 
-
-One of them is playing heavy metal songs on my guitar or some classical on the violin (Two ends of the spectrum? On closer inspection they're very similar).
-
-I also love to cook and bake, most of which is very edible.
-
-Learning languages is a newfound hobby of mine, Japenese being the latest addition to the list. アニメが大好きだから ;)
+- 🎸🎻 One of them is playing heavy metal songs on my guitar or some classical on the violin (Two ends of the spectrum? On closer inspection they're very similar)
+- 🥘🍰 I also love to cook and bake, most of which is very edible!
+- 📚 Learning languages is a newfound hobby of mine, Japenese being the latest addition to the list. アニメが大好きだから ;)
+- 🎨 I also like to sketch potraits and paint landscapes! Usually its more sketching because pencil is the quickest to get(although it needs more paitence)
 
 
 <!--
