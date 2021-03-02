@@ -15,7 +15,7 @@ When I'm not studying or working towards the craziest dream, I indulge myself in
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/TheSteelFist/count.svg)<br>
-<a href="https://instagram.com/TheSteelFist" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Instagram_logo_2016.svg#/media/File:Instagram_logo_2016.svg" alt="TheSteelFist"/></a>
+<a href="https://instagram.com/TheSteelFist" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="TheSteelFist" height="30"/></a>
 
 </div>
 <!--
