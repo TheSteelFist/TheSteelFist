@@ -18,6 +18,7 @@ Languages and Tools I'm familiar with:
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="30"></a>
+<a href="https://en.wikipedia.org/wiki/GIMP"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP"height="30"></a>
 <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Adobe_Illustrator_Icon_CS6.png" alt="Adobe Illustrator" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/Adobe_Lightroom"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1200px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Adobe Lightroom" height="30"></a>
