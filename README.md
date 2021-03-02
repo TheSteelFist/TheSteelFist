@@ -30,7 +30,7 @@ Languages and Tools I'm familiar with:
 <a href="https://en.wikipedia.org/wiki/WordPress"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/WordPress_logo.png" alt="WordPress" height="30"></a>&nbsp;
 </div><br><br>
 
-When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasure.<br>
+When I'm not studying or working towards the craziest dream, I indulge in a bunch of activities that can be considered as a guilty pleasure.<br>
 🎸🎻 One of them is playing heavy metal songs on my guitar or some classical pieces on the violin (Two ends of the spectrum? On closer inspection they're very similar)<br>
 🥘🍰 I also love to cook and bake, most of which is very edible!<br>
 📚📖 Learning languages is a newfound hobby of mine, Japanese being the latest addition to the list. アニメが大好きだから ;)<br>
