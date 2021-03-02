@@ -6,8 +6,7 @@ I have always dreamt of building a self-sufficient, fully interactive virtual wo
 
 💻 I love to work on all kinds of projects, because every little thing helps when you least expect it.<br>
 
-When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasure:
-
+When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasure.
 - 🎸🎻 One of them is playing heavy metal songs on my guitar or some classical on the violin (Two ends of the spectrum? On closer inspection they're very similar)
 - 🥘🍰 I also love to cook and bake, most of which is very edible!
 - 📚 Learning languages is a newfound hobby of mine, Japanese being the latest addition to the list. アニメが大好きだから ;)
