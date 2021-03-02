@@ -1,10 +1,5 @@
 > *''You didn't come here to make the choice. You've already made it. You're here to understand why you made it''*
 > <div dir="rtl">The Oracle</div><p/>
-<style>
-.contain {
-  object-fit: contain;
-}
-</style>
 
 Interactive and autonomous systems have always appealed to me given its multipurpose application. 
 I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br>
