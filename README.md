@@ -1,12 +1,12 @@
 > *''You didn't come here to make the choice. You've already made it. You're here to understand why you made it''*
 > <div dir="rtl">The Oracle</div><p/>
-<br\>
+<br>
 ---
 
 Interactive and autonomous systems have always appealed to me given its multipurpose application. 
-I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br\>
+I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br>
 
-💻 I love to work on all kinds of projects, because every little thing helps when you least expect it.<br\>
+💻 I love to work on all kinds of projects, because every little thing helps when you least expect it.<br>
 
 ---
 
@@ -32,7 +32,7 @@ Languages and Tools I'm familiar with:
 <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/Unity_Technologies_logo.png" alt="Unity 3D" height="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Blender_(software)"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/Logo_Blender.png" alt="Blender" height="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/WordPress"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/WordPress_logo.png" alt="WordPress" height="30"></a>&nbsp;
-</div><br\>
+</div><br>
 
 ---
 
