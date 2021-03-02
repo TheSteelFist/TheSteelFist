@@ -8,8 +8,8 @@ I have always dreamt of building a self-sufficient, fully interactive virtual wo
 
 Languages and Tools I'm familiar with:
 <div align="left">
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" height="30" width="50%"></a>
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="Python" height="30" width="50%"></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" height="30"></a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="Python" height="30"></a>
 </div><br><br>
 
 When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasure.<br>
