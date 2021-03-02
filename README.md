@@ -9,7 +9,7 @@ I have always dreamt of building a self-sufficient, fully interactive virtual wo
 Languages and Tools I'm familiar with:
 <div align="left">
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java programming language logo.svg" height="30"></a>
-</div>
+</div><br><br>
 
 When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasure.<br>
 🎸🎻 One of them is playing heavy metal songs on my guitar or some classical pieces on the violin (Two ends of the spectrum? On closer inspection they're very similar)<br>
