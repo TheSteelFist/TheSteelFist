@@ -1,5 +1,10 @@
 > *''You didn't come here to make the choice. You've already made it. You're here to understand why you made it''*
 > <div dir="rtl">The Oracle</div><p/>
+<style>
+.contain {
+  object-fit: contain;
+}
+</style>
 
 Interactive and autonomous systems have always appealed to me given its multipurpose application. 
 I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br>
@@ -8,11 +13,6 @@ I have always dreamt of building a self-sufficient, fully interactive virtual wo
 
 Languages and Tools I'm familiar with:
 <div align="left">
- <style>
-.contain {
-  object-fit: contain;
-}
-</style>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img class="contain" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="Python" height="30"></a>
 </div><br><br>
