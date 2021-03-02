@@ -12,9 +12,11 @@ When I'm not studying or working towards the craziest dream, I indulge myself in
 📚📖 Learning languages is a newfound hobby of mine, Japanese being the latest addition to the list. アニメが大好きだから ;)<br>
 🎨✏️ I also like to sketch portraits and paint landscapes! It's usually sketching because pencil is the quickest to reach out for(although it demands way more patience).<br>
 
+<div align="center">
+
 ![Visitor Count](https://profile-counter.glitch.me/TheSteelFist/count.svg)
 
-
+</div>
 <!--
 **TheSteelFist/TheSteelFist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
