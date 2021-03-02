@@ -1,6 +1,5 @@
 > *''You didn't come here to make the choice. You've already made it. You're here to understand why you made it''*
 > <div dir="rtl">The Oracle</div><p/>
-<br>
 
 ---
 
