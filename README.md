@@ -1,5 +1,6 @@
-> *''You didn't come here to make the choice. You've already made it. You're here to understand why you made it''* <br>
+> *''You didn't come here to make the choice. You've already made it. You're here to understand why you made it''*
 > <div dir="rtl">The Oracle</div><p/>
+
 
 Interactive and autonomous systems have always appealed to me given its multipurpose application. 
 I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br>
@@ -12,12 +13,15 @@ When I'm not studying or working towards the craziest dream, I indulge myself in
 📚📖 Learning languages is a newfound hobby of mine, Japanese being the latest addition to the list. アニメが大好きだから ;)<br>
 🎨✏️ I also like to sketch portraits and paint landscapes! It's usually sketching because pencil is the quickest to reach out for(although it demands way more patience).<br>
 
+
+
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/TheSteelFist/count.svg)<br>
 <a href="https://instagram.com/TheSteelFist" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="TheSteelFist" height="30"/></a>
 
 </div>
+
 <!--
 **TheSteelFist/TheSteelFist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
