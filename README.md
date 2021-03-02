@@ -1,11 +1,15 @@
 > *''You didn't come here to make the choice. You've already made it. You're here to understand why you made it''*
 > <div dir="rtl">The Oracle</div><p/>
 
-
 Interactive and autonomous systems have always appealed to me given its multipurpose application. 
 I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br>
 
 💻 I love to work on all kinds of projects, because every little thing helps when you least expect it.<br>
+
+Languages and Tools I'm familiar with:
+<div align="left">
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java programming language logo.svg" height="30"></a>
+</div>
 
 When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasure.<br>
 🎸🎻 One of them is playing heavy metal songs on my guitar or some classical pieces on the violin (Two ends of the spectrum? On closer inspection they're very similar)<br>
