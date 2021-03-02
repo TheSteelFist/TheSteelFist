@@ -25,6 +25,8 @@ Languages and Tools I'm familiar with:
 <a href="https://en.wikipedia.org/wiki/CorelDRAW"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CorelDraw_logo.svg/1200px-CorelDraw_logo.svg.png" alt="CorelDraw" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/GameMaker"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GameMaker_Studio_2.svg/1200px-GameMaker_Studio_2.svg.png" alt="GameMaker Studio" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png" alt="Unity 3D" height="30"></a>
+<a href="https://en.wikipedia.org/wiki/Blender_(software)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/1200px-Logo_Blender.svg.png" alt="Blender" height="30"></a>
+<a href="https://en.wikipedia.org/wiki/WordPress"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/1200px-WordPress_logo.svg.png" alt="WordPress" height="30"></a>
 </div><br><br>
 
 When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasure.<br>
