@@ -8,6 +8,7 @@ I have always dreamt of building a self-sufficient, fully interactive virtual wo
 
 Languages and Tools I'm familiar with:
 <div align="left">
+<code>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="Python" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="Postgresql" height="30"></a>
@@ -23,7 +24,7 @@ Languages and Tools I'm familiar with:
 <a href="https://en.wikipedia.org/wiki/Adobe_Audition"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Adobe_Audition_CC_icon.svg/1200px-Adobe_Audition_CC_icon.svg.png" alt="Adobe Audition" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/CorelDRAW"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/CorelDraw_logo.svg/1200px-CorelDraw_logo.svg.png" alt="CorelDraw" height="30"></a>
 <a href="https://en.wikipedia.org/wiki/GameMaker"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/GameMaker_Studio_2.svg/1200px-GameMaker_Studio_2.svg.png" alt="GameMaker Studio" height="30"></a>
-<a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png" alt="Unity 3D" height="30"></a>
+<a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png" alt="Unity 3D" height="30"></a></code>
 </div><br><br>
 
 When I'm not studying or working towards the craziest dream, I indulge myself in a bunch of activities that can be considered as my guilty pleasure.<br>
