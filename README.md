@@ -1,10 +1,14 @@
 > *''You didn't come here to make the choice. You've already made it. You're here to understand why you made it''*
 > <div dir="rtl">The Oracle</div><p/>
+<br\>
+---
 
 Interactive and autonomous systems have always appealed to me given its multipurpose application. 
-I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br>
+I have always dreamt of building a self-sufficient, fully interactive virtual world which would open a new dimension on how we perceive our daily lives.<br\>
 
-💻 I love to work on all kinds of projects, because every little thing helps when you least expect it.<br>
+💻 I love to work on all kinds of projects, because every little thing helps when you least expect it.<br\>
+
+---
 
 Languages and Tools I'm familiar with:
 <div align="left">
@@ -28,20 +32,23 @@ Languages and Tools I'm familiar with:
 <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/Unity_Technologies_logo.png" alt="Unity 3D" height="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Blender_(software)"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/Logo_Blender.png" alt="Blender" height="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/WordPress"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/WordPress_logo.png" alt="WordPress" height="30"></a>&nbsp;
-</div><br><br>
+</div><br\>
+
+---
 
 When I'm not studying or working towards the craziest dream, I indulge in a bunch of activities that can be considered as a guilty pleasure.<br>
 🎸🎻 One of them is playing heavy metal songs on my guitar or some classical pieces on the violin (Two ends of the spectrum? On closer inspection they're very similar)<br>
-🥘🍰 I also love to cook and bake, most of which is very edible!<br>
+🥘🍰 I love to cook and bake, most of which is very edible!<br>
 📚📖 Learning languages is a newfound hobby of mine, Japanese being the latest addition to the list. アニメが大好きだから ;)<br>
-🎨✏️ I also like to sketch portraits and paint landscapes! It's usually sketching because pencil is the quickest to reach out for(although it demands way more patience).<br>
+🎨✏️ I also like to sketch portraits and paint landscapes! It's usually sketching because pencil is the quickest to reach out for (although it demands way more patience).<br>
+🎲🎮 Developing and playing video games is something that I enjoy<br\>
+📷<a href="https://instagram.com/TheSteelFist" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="TheSteelFist" height="10"/></a> Although I'm new at it, I still enjoy composing photographs.
 
-
+---
 
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/TheSteelFist/count.svg)<br>
-<a href="https://instagram.com/TheSteelFist" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="TheSteelFist" height="30"/></a>
 
 </div>
 
