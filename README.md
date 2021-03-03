@@ -18,6 +18,9 @@ Languages and Tools I'm familiar with:
 
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/Java_programming_language_logo.png" alt="Java" height="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/Python_logo_and_wordmark.png" alt="Python" height="30"></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/TensorFlow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png" alt="TensorFlow" height="30"></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Scikit-learn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" height="30"></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/Keras"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" height="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="Postgresql" height="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/PhpMyAdmin"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1200px-PhpMyAdmin_logo.svg.png" alt="PhpMyAdmin" height="30"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/Android_Studio"><img src="https://raw.githubusercontent.com/TheSteelFist/TheSteelFist/main/Assets/Android_Studio_Trademark.png" alt="Android Studio Trademark.svg" height="30"></a>&nbsp;
